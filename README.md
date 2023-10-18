@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raamizz
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning Mern Stack
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning Devops , MERN
 - 📫 How to reach me rameezebrahim@transpost.co
 
 <!---
