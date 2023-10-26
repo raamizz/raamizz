@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raamizz
 - My personal Profile @GetmeV8
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Devops , MERN
+- 🌱 I’m currently learning Devops , MERN..
 - 📫 How to reach me rameezebrahim@transpost.co
 
 <!---
