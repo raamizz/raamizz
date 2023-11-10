@@ -2,7 +2,7 @@
 - My personal git is @GetmeV8
 - Currently Focused on Front-End
 - I’m interested in Software Development
-- I’m currently learning Next JS .
+- I’m currently learning Next JS.
 - Reach me @rameezebrahim@transpost.co
 
 <!---
