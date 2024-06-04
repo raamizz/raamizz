@@ -1,7 +1,7 @@
 - Hi, I’m @ramizz.
 - My personal git is @GetmeV8.
 - I’m interested in Software Development
-- I’m currently working on NextJS
+- I’m currently working on NextJS.
 - Reach me @rameezebrahim@transpost.com
 
 <!---
