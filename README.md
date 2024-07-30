@@ -1,6 +1,6 @@
 - Hi, I’m @ramizz.
 - My personal git is @
-- I’m interested in Software Development.
+- I’m interested in Software Development..
 - I’m currently working on NextJS..
 - Reach me @rameezebrahim@transpost.com.
 <!---
